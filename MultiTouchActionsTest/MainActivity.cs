@@ -9,7 +9,7 @@ using System.Collections.Generic;
 
 namespace MultiTouchActionsTest
 {
-	[Activity(Label = "MultiTouchActionsTest", MainLauncher = true, Icon = "@drawable/icon")]
+	[Activity(Label = "Multi-Touch Actions Test", MainLauncher = true, Icon = "@drawable/icon")]
 	public class MainActivity : Activity
 	{
 		ArrayAdapter     adapter;
